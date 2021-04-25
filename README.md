@@ -1,3 +1,16 @@
+# About the project
+
+This project uses NASA Open API and the Google Maps API to build a wildfire tracker website that marks the ongoing wildfires over the Map.
+
+### Technologies and Resources Used : 
+1. React.js (JS library for building UI)
+2. NASA Open API (To get current natural incidents data https://eonet.sci.gsfc.nasa.gov/api/v2.1/events)
+3. Google Maps API
+
+Website Screenshot : ![Website Screenshot](src/components/Images/wildfire_tracker.png?raw=true "Image")
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
